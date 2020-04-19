@@ -1,4 +1,4 @@
-# ExtensibleMCMCPlots
+# ExtensibleMCMCPlots.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JuliaDiffusionBayes.github.io/ExtensibleMCMCPlots.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaDiffusionBayes.github.io/ExtensibleMCMCPlots.jl/dev)

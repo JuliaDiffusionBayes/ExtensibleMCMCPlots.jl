@@ -3,6 +3,11 @@ uuid = "5ddf4398-86b8-4384-b5c8-bdceb47d2c1a"
 authors = ["Sebastiano Grazzi", "Frank van der Meulen", "Marcin Mider", "Moritz Schauer"]
 version = "0.1.0"
 
+[deps]
+ExtensibleMCMC = "23b8d773-6ad0-4cfa-a2a0-a1f8bd765eb5"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+
 [compat]
 julia = "1.4"
 
