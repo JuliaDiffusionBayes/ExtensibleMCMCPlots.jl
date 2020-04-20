@@ -7,3 +7,6 @@
 Adds `PlottingCallback` to [ExtensibleMCMC.jl](https://github.com/JuliaDiffusionBayes/ExtensibleMCMC.jl).
 
 ![anim](assets/online_plots.gif)
+
+---
+Note: the online plots may slow down your mcmc sampler, but if your problem is complicated enough and requires enough computations for each step, then using `PlottingCallback` should bear no effect on the overall performance.
